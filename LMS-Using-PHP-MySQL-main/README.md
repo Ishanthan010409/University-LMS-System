@@ -1,10 +1,4 @@
 # Learning Management System (LMS) Module
-
-**Co-Authors:**
-- Patel Kushal: [20bce209@nirmauni.ac.in](mailto:20bce209@nirmauni.ac.in)
-- Patel Shiv: [20bce220@nirmauni.ac.in](mailto:20bce220@nirmauni.ac.in)
-- Patel Shrey : [20bce221@nirmauni.ac.in](mailto:20bce221@nirmauni.ac.in)
-
 ## Introduction
 
 The development of a Learning Management System (LMS) module that caters to both the end-users, i.e., the students and the admin, is a crucial requirement for effective learning. The LMS module is designed to provide the admin with all the necessary functionalities required to manage the system effectively, such as managing registered users, adding and deleting courses, and managing assignments and announcements. On the other hand, the student module offers functionalities like viewing courses, assignments, submitting assignments, downloading course policies, and viewing announcements. Both the admin and student modules provide basic functionalities like login and logout, and the student module also includes the functionality of registering for courses. Overall, the LMS module aims to provide a comprehensive platform for effective learning management.
@@ -12,10 +6,6 @@ The development of a Learning Management System (LMS) module that caters to both
 ## Project Description
 
 The project aims to develop a Learning Management System (LMS) module that includes two primary end-users: Students and Admin. Each user type has distinct functionalities:
-
-## Video Tutorial
-
-Youtube link : https://youtu.be/-ReGkiLnmn0?feature=shared
 
 ### Admin Functionalities
 
@@ -99,10 +89,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Open a pull request to merge your changes into the main branch.
 
 Please ensure your code follows the project's coding standards and conventions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 

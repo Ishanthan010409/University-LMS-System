@@ -4,11 +4,6 @@
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange.svg)](https://www.mysql.com/)
 
-**Co-Authors:**
-- Patel Kushal: [20bce209@nirmauni.ac.in](mailto:20bce209@nirmauni.ac.in)
-- Patel Shiv: [20bce220@nirmauni.ac.in](mailto:20bce220@nirmauni.ac.in)
-- Patel Shrey: [20bce221@nirmauni.ac.in](mailto:20bce221@nirmauni.ac.in)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
